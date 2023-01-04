@@ -3,3 +3,12 @@ audi
 ferrari
 lotus
 SUPRA
+--------------------------
+4.1 VAZ-2101/Lada Riva/Zhiguli (1970–2013)
+4.2 AMC Gremlin (1970–78)
+4.3 Chevrolet Vega (1971–77)
+4.4 Ford Pinto (1971–80)
+4.5 Morris Marina (1971–80)
+4.6 Vauxhall HC Viva "Firenza" (Canada) (1971–73)
+4.7 Lancia Beta (1972–84)
+4.8 Reliant Robin/Rialto (1973–2002)
